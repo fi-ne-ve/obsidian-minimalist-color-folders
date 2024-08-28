@@ -31,39 +31,39 @@ Colors have to be in R, G, B, which allows you to apply an opacity setting. You 
 
 /* Folder Background Colors */        
 
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+2) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+2) > .nav-folder-title {
     background-color: rgba(var(--Fold1), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+3) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+3) > .nav-folder-title {
     background-color: rgba(var(--Fold2), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+4) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+4) > .nav-folder-title {
     background-color: rgba(var(--Fold3), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+5) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+5) > .nav-folder-title {
     background-color: rgba(var(--Fold4), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+6) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+6) > .nav-folder-title {
     background-color: rgba(var(--Fold5), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+7) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+7) > .nav-folder-title {
     background-color: rgba(var(--Fold6), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+8) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+8) > .nav-folder-title {
     background-color: rgba(var(--Fold7), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+9) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+9) > .nav-folder-title {
     background-color: rgba(var(--Fold8), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
-.nav-folder.mod-root > .nav-folder-children > .nav-folder:nth-child(9n+10) > .nav-folder-title {
+.nav-files-container > div >  > .nav-folder:nth-child(9n+10) > .nav-folder-title {
     background-color: rgba(var(--Fold9), var(--bgFoldOpacity));
     border-radius: 5px; padding-top:var(--foldBgPad); padding-bottom: var(--foldBgPad); margin-top: var(--foldBgMar); margin-bottom: var(--foldBgMar);
 }
